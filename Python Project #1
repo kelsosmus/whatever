@@ -1,2 +1,7 @@
-print("hello world")
-print("my name is kelsey")
+print("Welcome to Pig Latin Translator")
+original = raw_input ("Enter a word:  ")
+of len(original)>0 : 
+print original
+and.isalpha()
+else:
+print("empty")
